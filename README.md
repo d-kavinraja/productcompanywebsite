@@ -743,6 +743,11 @@ Publish the website in the given URL.
 
 ### CONTACT PAGE:
 ![output](./Contact.png)
+### SERVER OUTPUT:
+![OUTPUT](./Server.png)
+
+### HTML VALIDATOR:
+![OUTPUT](./Validator.png)
 
 
 

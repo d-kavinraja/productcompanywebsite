@@ -726,12 +726,10 @@ Publish the website in the given URL.
 
         }
 ```
-
 ## OUTPUT:
 
 ### HOME PAGE:
 ![output](./Home.png)
-
 ### PEOPLE PAGE:
 ![output](./People1.png)
 ![output](./People2.png)
@@ -740,12 +738,10 @@ Publish the website in the given URL.
 ![output](./Product1.png)
 ![output](./Product2.png)
 ![output](./Product3.png)
-
 ### CONTACT PAGE:
 ![output](./Contact.png)
 ### SERVER OUTPUT:
 ![OUTPUT](./Server.png)
-
 ### HTML VALIDATOR:
 ![OUTPUT](./Validator.png)
 

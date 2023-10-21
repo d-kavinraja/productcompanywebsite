@@ -1,0 +1,142 @@
+.home{
+    height: 3000px;
+    width: 85%;
+    border: 12px solid violet;
+    padding-left:10px;
+    padding-right:10px;
+    margin-left: auto;
+    margin-right:auto;
+    background-color:darkorange;
+}
+.text{
+color:blueviolet;
+font-family:'Lucida Sans';
+font-size: 30px;
+text-align:center;
+
+}
+.content{
+    border:1px solid whitesmoke;
+    background-color: white;
+    width:95%;
+    height:2690px;
+    padding:10px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.ceoph{
+    background-image: url(/static/img/ceo.jpg);
+    background-size: 250px;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    border:1px solid black;
+    height:300px;
+    width:20%;
+    position:relative;
+    left: 0px;
+    margin-left:auto;
+    margin-right: auto;
+}
+.ceo{
+    color: gold;
+    position:relative;
+    text-align:center;
+    
+    
+}
+.manph1{
+    background-image: url(/static/img/man1.jpg);
+    background-size: 250px;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    border:1px solid black;
+    height:300px;
+    width:20%;
+    position:relative;
+    margin-left:auto;
+    margin-right:auto;            
+}
+.man1{
+    color: sandybrown;
+    position:relative;
+    text-align:center;
+    
+}
+.manph2{
+    background-image: url(/static/img/man2.jpg);
+    background-size: 250px;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    border:1px solid black;
+    height:300px;
+    width:20%;
+    position:relative;
+    margin-left:auto;
+    margin-right:auto;
+
+    
+}
+.man2{
+    color: burlywood;
+    position:relative;
+    text-align:center;
+}
+
+.amph1{
+    background-image: url(/static/img/ass1.jpg);
+    background-size: 250px;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    border:1px solid black;
+    height:300px;
+    width:20%;
+    position:relative;
+    margin-left:auto;
+    margin-right:auto;
+
+    
+}
+.am1{
+    color: burlywood;
+    position:relative;
+    text-align:center;
+}
+
+.amph2{
+    background-image: url(/static/img/ass2.jpg);
+    background-size: 250px;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    border:1px solid black;
+    height:220px;
+    width:20%;
+    position:relative;
+    margin-left:auto;
+    margin-right:auto;
+
+    
+}
+.am2{
+    color: burlywood;
+    position:relative;
+    text-align:center;
+}
+.amph3{
+    background-image: url(/static/img/ass3.jpg);
+    background-size: 250px;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    border:1px solid black;
+    height:250px;
+    width:20%;
+    position:relative;
+    margin-left:auto;
+    margin-right:auto;
+
+    
+}
+.am3{
+    color: burlywood;
+    position:relative;
+    text-align:center;
+}
